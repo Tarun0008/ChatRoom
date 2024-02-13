@@ -1,8 +1,8 @@
-To Install All Dependencies
+***To Install All Dependencies***
 
 npm install
 
-To Run Client
+***To Run Client****
 
 npm start
 
